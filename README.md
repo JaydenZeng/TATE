@@ -11,12 +11,12 @@ tensorflow implementation for TATE
 ## Usage
   
    
-* download processed features from [baidu disk]( https://pan.baidu.com/s/1BJZkg8nNElFg9KSXdrLlyw?pwd=2qiu) , code: 2qiu
+* download processed features from [here]( https://pan.baidu.com/s/1BJZkg8nNElFg9KSXdrLlyw?pwd=2qiu) , code: 2qiu
 
-* or process file by [OpenSimle2.0](https://github.com/audeering/opensmile), Bert, and [Librosa](https://github.com/librosa/librosa)
+* or process file by [OpenSimle2.0](https://github.com/audeering/opensmile), Bert, and [Librosa](https://github.com/librosa/librosa). Refer to utils folder.
 
 
-* generate train and test.pkl
+* generate train.pkl and test.pkl
 ```python 
 python Dataset.py
 ```
