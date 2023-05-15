@@ -11,7 +11,7 @@ tensorflow implementation for TATE
 ## Usage
   
    
-* download processed features from [here]( https://pan.baidu.com/s/1BJZkg8nNElFg9KSXdrLlyw?pwd=2qiu) , code: 2qiu
+* download processed features from [Google Drive](https://drive.google.com/drive/folders/14U5t9Y8VsiF3P0ICrZVSwUYlpZOg4H7I?usp=sharing) or [Baidu Disk]( https://pan.baidu.com/s/1BJZkg8nNElFg9KSXdrLlyw?pwd=2qiu) 
 
 * or process file by [OpenSimle2.0](https://github.com/audeering/opensmile), Bert, and [Librosa](https://github.com/librosa/librosa). Refer to utils folder.
 
